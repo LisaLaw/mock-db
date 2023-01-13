@@ -16,5 +16,8 @@
         "name": "Orange",
         "value": "#ffc898"
       }
-    ]
+    ],
+    "profile": {
+        "name": "typicode"
+    }
   }
